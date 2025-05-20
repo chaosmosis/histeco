@@ -1,7 +1,7 @@
 
 # Histeco – Analyse exploratoire des économistes français et belges via Wikidata
 
-Cette missive présente une interface interactive qui recense les économistes belges et français nés après 1789 à partir des données disponibles sur Wikidata. Il s'agit d'un geste analyse exploratoire suite à ma lecture rapide du travail de **Heckman & Moktan (2018)**, centré sur les revues du Top 5 américain.
+Cette missive présente une interface interactive qui recense les économistes belges et français nés après 1789 à partir des données disponibles sur Wikidata. Il s'agit d'une analyse exploratoire menée  suite à ma lecture rapide du travail de **Heckman & Moktan (2018)**, centré sur les revues du Top 5 américain.
 
 ## 🎯 potentiels objectifs
 
