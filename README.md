@@ -7,7 +7,7 @@ Cette missive présente une interface interactive qui recense les économistes b
 
 - Réaliser une **analyse robuste** des trajectoires académiques d’économistes francophones et belges.
 - Encourager une **réplication** du travail **Heckman & Moktan (2018)**
-- Proposer une **cartographie temporelle** des économistes selon une périodisation issue de l’histoire de la pensée économique.
+- Proposer une **cartographie temporelle** des économistes à partir d'une périodisation bien connue de l’histoire des pensées en sciences économiques.
 
 ## 🔍 Données & Requête SPARQL
 
