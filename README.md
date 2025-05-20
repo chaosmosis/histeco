@@ -6,7 +6,7 @@ Cette missive présente une interface interactive qui recense les économistes b
 ## 🎯 potentiels objectifs
 
 - Réaliser une **analyse robuste** des trajectoires académiques d’économistes francophones et belges.
-- Encourager une **réplication européenne** du modèle de Heckman : analyse de la stratification académique à travers les publications, les trajectoires et les affiliations.
+- Encourager une **réplication** du travail **Heckman & Moktan (2018)**
 - Proposer une **cartographie temporelle** des économistes selon une périodisation issue de l’histoire de la pensée économique.
 
 ## 🔍 Données & Requête SPARQL
