@@ -74,7 +74,7 @@ La classification temporelle est inspirée de la **périodisation de l’histoir
 
 1. **Élargissement de l’échantillon** : inclure les économistes allemands, italiens, espagnols, néerlandais.
 2. **Annotation manuelle** de la typologie des publications pour chaque économiste (revues, affiliations, trajectoires).
-3. **Construction d’un réseau** de co-affiliation ou de mentorat à partir de Wikidata.
+3. **Construction d’un réseau** de co-affiliation ou de mentorat à partir de Wikidata et d'interviews.
 4. **Régression logistique** sur la probabilité de publication dans une revue prestigieuse selon le genre, la nationalité, le type d’institution.
 5. **Comparaison directe** avec les données des revues du Top 5 utilisées par Heckman & Moktan.
 
